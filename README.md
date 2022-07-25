@@ -6,3 +6,5 @@ This notebook is my analysis for a Google Merchandise Store (also known as GStor
 For each fullVisitorId in the test set, we should predict the natural log of their total revenue in PredictedLogRevenue, noting that one customer may have number of transactions in data.
 
 This notebook is created using: Python, json, Matplotlib, Seaborn, Sickitlearn, LightGBM Regression
+
+Dataset link: https://www.kaggle.com/competitions/ga-customer-revenue-prediction/data
